@@ -1,19 +1,13 @@
 body{
-    margin: 30px;
-    padding: 20px;
+    padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
-   /* background-image: url("https://cdn130.picsart.com/236295562025212.png");
-    background-repeat: no-repeat;
-    background-size: 200px 500px;
-    background-position: right top;
-    background-attachment: fixed;*/
 }
     
 .tabs {
     background-color: #F4DD4B;
     display: flex;
-    width: 900px;
+    width: 1000px;
     margin: auto;
     position: relative;
     background-image: url("https://cdn130.picsart.com/236295562025212.png");
@@ -63,15 +57,16 @@ body{
 }
 
 img {
-    width: 200px; 
-    height: 200px;
+    width: 250px; 
+    height: 250px;
+    margin-top: 20px;
     margin-right: 20px;
 }
 .minion-content {
+    width: 670px;
     line-height: 1.5; 
     font-size: 24px;
     margin: 0;
-    padding-left: 50px;
     word-spacing: 1px;
     position: relative;
 }
